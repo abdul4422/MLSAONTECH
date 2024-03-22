@@ -24,6 +24,7 @@ import image from "../images/woman-with-tablet.jpg";
 
 const imageAltText = "My Professional Background cover picture.";
 
+
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
