@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/syed-abdul-sammad-217240217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   medium: "",
   twitter: "https://twitter.com/SYED188060?t=SLZW_h7VwNi8TyVOyrO14w&s=08",
-  youTube: "abdulsamad2568",
+  youTube: "abdulsamad2568",gi 
 };
 
 const primaryColor = "#4E567E";
